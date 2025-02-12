@@ -4,3 +4,6 @@ echo $ENVO_FOO
 echo $ENVO_BAR
 
 echo "external script has been run"
+-
+-
+:4s21ai search 
